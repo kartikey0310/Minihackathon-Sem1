@@ -95,7 +95,7 @@ int arr[6][6][4] =
 const char *locationNames[6] =
 {
     "Bidholi Main Gate",
-    "Kandholi Main Gate",
+    "Kandoli Main Gate",
     "Hospital",
     "Railway Station",
     "Airport",
